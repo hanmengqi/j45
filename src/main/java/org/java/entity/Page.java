@@ -2,6 +2,11 @@ package org.java.entity;
 
 import java.io.Serializable;
 
+/**
+ * ·ÖÒ³¶ÔÏó
+ * @author monkey
+ *
+ */
 public class Page implements Serializable {
 
 	private Integer index=1;
